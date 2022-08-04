@@ -1,16 +1,2 @@
-redhat 0.0.0.1
-
-   artifact-1
-       
-        <version = 5.0>
-        <name = zakia shaik>
-         <hod = tcs>
-         <create new line>
-        
-   artifact-1
-       
-        <version = 6.0>
-        <name = anjum  shaik>
-         <hod = infy>
-         <create second line>
-        
+java.iostream.*
+public static void main string args{()} 
