@@ -3,3 +3,5 @@ public static void main string args{()}
 int a,b
 a = input .streamline
 b = input .streamline
+a =br.readline()
+a =br.readline()
